@@ -34,4 +34,5 @@ This repository contains SQL queries written specifically for **SQLite** to retr
 - Some SQL functions used (e.g., `GROUP_CONCAT`, `strftime`) are SQLite-specific and may not work in other SQL databases without modification.
 
 ## Where is QUERY'S themself:
-
+```sh
+   git clone https://github.com/your-username/repository-name.git
