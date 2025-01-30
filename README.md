@@ -35,4 +35,4 @@ This repository contains SQL queries written specifically for **SQLite** to retr
 
 ## Where is QUERY'S themself:
 ```sh
-   git clone https://github.com/your-username/repository-name.git
+   https://github.com/TautvydasKre/SEB-interview-queries-SQLite/blob/main/employee_queries.sql
