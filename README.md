@@ -34,5 +34,11 @@ This repository contains SQL queries written specifically for **SQLite** to retr
 - Some SQL functions used (e.g., `GROUP_CONCAT`, `strftime`) are SQLite-specific and may not work in other SQL databases without modification.
 
 ## Where is QUERY'S themself:
-```sh
+You can view the SQL queries by copying and pasting the following link into your browser:
+  ```sh
    https://github.com/TautvydasKre/SEB-interview-queries-SQLite/blob/main/employee_queries.sql
+  ```
+Alternatively, you can clone this repository:
+   ```sh
+   git clone https://github.com/your-username/repository-name.git
+  ```
