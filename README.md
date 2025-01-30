@@ -29,6 +29,7 @@ This repository contains SQL queries written specifically for **SQLite** to retr
 - These queries are written **specifically for SQLite**.
 - Ensure your database schema includes the required tables:
   - `JOB`
+  - `Names`
   - `PERSONAL_DATA`
   - `PERSONAL_PHONE`
 - Some SQL functions used (e.g., `GROUP_CONCAT`, `strftime`) are SQLite-specific and may not work in other SQL databases without modification.
@@ -41,4 +42,4 @@ You can view the SQL queries by copying and pasting the following link into your
 Alternatively, you can clone this repository:
    ```sh
    git clone https://github.com/your-username/repository-name.git
-  ```
+   ```
