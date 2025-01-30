@@ -41,5 +41,5 @@ You can view the SQL queries by copying and pasting the following link into your
   ```
 Alternatively, you can clone this repository:
    ```sh
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/TautvydasKre/SEB-interview-queries-SQLite
    ```
